@@ -17,4 +17,4 @@ $ pipenv run main2.py
 <!-- ![image](./portada.gif) -->
 
 ## Note
-You may has to change index of your webcam at main2.py
+You may have to change index of your webcam at main2.py
