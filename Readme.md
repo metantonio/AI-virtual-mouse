@@ -1,4 +1,4 @@
-#This project is based on A.I. hands tracking with opencv, to control mouse
+# This project is based on A.I. hands tracking with opencv, to control mouse
 
 #### Install the python packages of Pipfile on virtual enviroment:
 ```
@@ -16,5 +16,5 @@ $ pipenv run main2.py
 <img align="center" src="./portada.gif">
 <!-- ![image](./portada.gif) -->
 
-##Note
+## Note
 You may has to change index of your webcam at main2.py
