@@ -1,4 +1,4 @@
-This is an example of how to use GPGPU to run process on graphics cards and not on CPU.
+#This project is based on A.I. hands tracking with opencv, to control mouse
 
 #### Install the python packages of Pipfile on virtual enviroment:
 ```
@@ -15,3 +15,6 @@ $ pipenv run main2.py
 #### Example Image:
 <img align="center" src="./portada.gif">
 <!-- ![image](./portada.gif) -->
+
+##Note
+You may has to change index of your webcam at main2.py
